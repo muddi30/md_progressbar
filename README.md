@@ -18,7 +18,7 @@ md_progressbar
 
 My discord:
 
-https://discord.gg/CGYRSeabkg
+https://discord.gg/SqNGdSc6
 
 My twitch:
 
