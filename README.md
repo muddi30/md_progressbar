@@ -3,6 +3,7 @@
 
 **Danish**
 
+
 # Hash_job
 RedM Hash Job lavet til REDEM: RP (redem/redem_roleplay)
 
@@ -28,6 +29,7 @@ ensure md_progressbar
 ikke tilladt at tage 
 
 **Engelsk**
+
 
 # Hash_job
 RedM Hash Job made for REDEM:RP (redem/redem_roleplay)
