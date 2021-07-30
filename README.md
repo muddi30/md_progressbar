@@ -1,9 +1,6 @@
 
 # README  
 
-
-
-
 **Danish**
 
 # Hash_job
